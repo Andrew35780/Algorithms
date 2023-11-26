@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\bin\Debug\Modular_Exponentiation.exe.config
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\bin\Debug\Modular_Exponentiation.exe
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\bin\Debug\Modular_Exponentiation.pdb
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\obj\Debug\Modular_Exponentiation.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\obj\Debug\Modular_Exponentiation.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\obj\Debug\Modular_Exponentiation.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\obj\Debug\Modular_Exponentiation.exe
+C:\Users\andre\source\repos\Algorithms\Modular_Exponentiation\obj\Debug\Modular_Exponentiation.pdb

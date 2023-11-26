@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\bin\Debug\Really_Simple_Sort.exe.config
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\bin\Debug\Really_Simple_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\bin\Debug\Really_Simple_Sort.pdb
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\obj\Debug\Really_Simple_Sort.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\obj\Debug\Really_Simple_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\obj\Debug\Really_Simple_Sort.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\obj\Debug\Really_Simple_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Really_Simple_Sort\obj\Debug\Really_Simple_Sort.pdb

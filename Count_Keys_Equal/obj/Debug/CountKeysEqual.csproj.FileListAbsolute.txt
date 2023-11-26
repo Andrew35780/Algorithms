@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\bin\Debug\Count_Keys_Equal.exe.config
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\bin\Debug\Count_Keys_Equal.exe
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\bin\Debug\Count_Keys_Equal.pdb
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\obj\Debug\CountKeysEqual.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\obj\Debug\CountKeysEqual.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\obj\Debug\Count_Keys_Equal.exe
+C:\Users\andre\source\repos\Algorithms\Count_Keys_Equal\obj\Debug\Count_Keys_Equal.pdb

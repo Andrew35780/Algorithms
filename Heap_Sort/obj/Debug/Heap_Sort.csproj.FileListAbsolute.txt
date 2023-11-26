@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\bin\Debug\Heap_Sort.exe.config
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\bin\Debug\Heap_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\bin\Debug\Heap_Sort.pdb
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\obj\Debug\Heap_Sort.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\obj\Debug\Heap_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\obj\Debug\Heap_Sort.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\obj\Debug\Heap_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Heap_Sort\obj\Debug\Heap_Sort.pdb

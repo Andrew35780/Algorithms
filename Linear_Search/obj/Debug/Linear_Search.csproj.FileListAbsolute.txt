@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Algorithms\Linear_Search\bin\Debug\Linear_Search.exe.config
+C:\Users\andre\source\repos\Algorithms\Linear_Search\bin\Debug\Linear_Search.exe
+C:\Users\andre\source\repos\Algorithms\Linear_Search\bin\Debug\Linear_Search.pdb
+C:\Users\andre\source\repos\Algorithms\Linear_Search\obj\Debug\Linear_Search.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Linear_Search\obj\Debug\Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Linear_Search\obj\Debug\Linear_Search.exe
+C:\Users\andre\source\repos\Algorithms\Linear_Search\obj\Debug\Linear_Search.pdb

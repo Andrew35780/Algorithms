@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\bin\Debug\Insertion_Sort.exe.config
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\bin\Debug\Insertion_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\bin\Debug\Insertion_Sort.pdb
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\obj\Debug\Insertion_Sort.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\obj\Debug\Insertion_Sort.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\obj\Debug\Insertion_Sort.exe
+C:\Users\andre\source\repos\Algorithms\Insertion_Sort\obj\Debug\Insertion_Sort.pdb
